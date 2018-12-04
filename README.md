@@ -1,2 +1,1 @@
-This progam is my first c++ git progam
-So 
+I use the git to upload my project to my github
